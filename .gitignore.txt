@@ -1,0 +1,8 @@
+train_images/
+test_images/
+*.csv
+*.zip
+*.h5
+*.keras
+__pycache__/
+.ipynb_checkpoints/
